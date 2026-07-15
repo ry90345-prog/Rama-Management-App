@@ -1,0 +1,6 @@
+{
+  "name": "Rama ERP",
+  "description": "Enterprise Resource Planning (ERP) application for Rama Technical Institute, supporting Admins, Teachers, and Students with local cache, database syncing, and Gemini AI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
